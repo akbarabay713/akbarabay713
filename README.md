@@ -22,7 +22,6 @@
 
 ### **🐍 GitHub Snake Game (Animated)**  
 
-![Snake Game](https://akbarabay713.github.io/akbarabay713/output/snake.svg)
 ![Snake Game](https://raw.githubusercontent.com/akbarabay713/akbarabay713/main/output/snake.svg)
 ### **👀 Visitor Counter**  
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=akbarabay713.akbarabay713)  
