@@ -8,18 +8,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for artifact upload
+    
     steps:
-      - uses: Platane/snk@master
+      # Checkout the repository (required for Platane/snk v2+)
+      - uses: actions/checkout@v4
+        
+      # Generate the snake animation
+      - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-        id: snake-gif
-      
-      - uses: actions/upload-artifact@v2
+          svg_out_path: "snake.svg"
+          gif_out_path: "snake.gif"
+        
+      # Upload SVG artifact (updated to v4)
+      - uses: actions/upload-artifact@v4
         with:
-          name: snake.svg
-          path: ${{ steps.snake-gif.outputs.snake_path }}
-      
-      - uses: actions/upload-artifact@v2
-        with:
-          name: snake.gif
-          path: ${{ steps.snake-gif.outputs.snake_gif_path }}
+          name: snake-animation
+          path: |
+            snake.svg
+            snake.gif
