@@ -26,11 +26,6 @@
 ### **👀 Visitor Counter**  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akbarabay713.akbarabay713)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/akbarabay713&label=Visitors&labelColor=%23ff0000&countColor=%23d9e7ff)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/akbarabay713&title=Profile%20Views)
-
-![Counter](https://visitor-badge.laobi.icu/badge?page_id=akbarabay713.akbarabay713&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### **💬 Ask Me Anything**  
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c)](https://github.com/akbarabay713/akbarabay713/discussions)  
