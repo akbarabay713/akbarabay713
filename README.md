@@ -36,9 +36,3 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/akbarabay713/yourrepo)  
 
 ---
-
-## **📅 My Coding Activity**  
-<!-- WakaTime Stats -->  
-```text
-🐍 Python       █████████████░░░░░░░░░░░░   52%  
-🌐 JavaScript   ██████░░░░░░░░░░░░░░░░░░░   26%  
