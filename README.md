@@ -30,9 +30,3 @@
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c)](https://github.com/akbarabay713/akbarabay713/discussions)  
 
 ---
-
-## **🚀 Try My Projects Instantly**  
-[![Run on Replit](https://replit.com/badge/github/akbarabay713/yourrepo)](https://replit.com/new/github/akbarabay713/yourrepo)  
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/akbarabay713/yourrepo)  
-
----
