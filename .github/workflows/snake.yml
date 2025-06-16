@@ -14,19 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Main snake generation step
-      - name: Generate Snake
+      # Generate snake files in a specific directory
+      - name: Create Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: akbarabay713
-          outputs: |
-            svg_path=snake.svg
-            gif_path=snake.gif
+          svg_out_path: output/snake.svg  # Explicit output path
+          gif_out_path: output/snake.gif   # In an 'output' folder
           
-      # Upload both files
+      # Verify files exist before upload
+      - name: List files (debug)
+        run: ls -R output/
+        
+      # Upload artifacts
       - uses: actions/upload-artifact@v4
         with:
           name: snake-animation
-          path: |
-            snake.svg
-            snake.gif
+          path: output/*
