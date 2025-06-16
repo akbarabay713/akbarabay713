@@ -21,6 +21,7 @@ jobs:
           github_user_name: akbarabay713
           svg_out_path: output/snake.svg  # Explicit output path
           gif_out_path: output/snake.gif   # In an 'output' folder
+          force_regenerate: true  # Add this line
           
       # Verify files exist before upload
       - name: List files (debug)
