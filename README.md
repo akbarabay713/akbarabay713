@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I’m [Your Name]  
 
-<!--
-**akbarabay713/akbarabay713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Role:** Full-Stack Developer | AI Enthusiast | Open-Source Contributor  
+🌱 **Learning:** Next.js, Rust, Machine Learning  
+🔭 **Working on:** [Your Project Name]  
+📫 **Reach me:** [Your Email] | [Twitter/LinkedIn]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🛠️ Tech Stack**  
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,rust,aws,docker)  
+
+---
+
+## **📊 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarabay713&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarabay713&layout=compact&theme=dark)  
+
+---
+
+## **🎮 Interactive Elements**  
+
+### **🐍 GitHub Snake Game (Animated)**  
+![Snake Animation](https://github.com/akbarabay713/akbarabay713/blob/output/github-contribution-grid-snake.svg)  
+
+### **👀 Visitor Counter**  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=akbarabay713.akbarabay713)  
+
+### **💬 Ask Me Anything**  
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c)](https://github.com/akbarabay713/akbarabay713/discussions)  
+
+---
+
+## **🚀 Try My Projects Instantly**  
+[![Run on Replit](https://replit.com/badge/github/akbarabay713/yourrepo)](https://replit.com/new/github/akbarabay713/yourrepo)  
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/akbarabay713/yourrepo)  
+
+---
+
+## **📅 My Coding Activity**  
+<!-- WakaTime Stats -->  
+```text
+🐍 Python       █████████████░░░░░░░░░░░░   52%  
+🌐 JavaScript   ██████░░░░░░░░░░░░░░░░░░░   26%  
